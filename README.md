@@ -24,6 +24,10 @@ Navigation:
 
 7-On metrics: you can find a modal in "view details" to get the correspondent information.
 
+Technologies used:
+
+HTML, CSS, Bootstrap, JS, JSON.
+
 Author
 
     Juan Camilo Moreno M.

@@ -1,0 +1,559 @@
+[
+  {
+    "userName":    "Andres Gomez",
+    "subject":      "I can't login to my account",
+    "costumerSat":  100,
+    "priority":     "High",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    30
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    10
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    200
+      }
+    ]
+  },
+
+  {
+    "userName":    "Ezequiel Salatino",
+    "subject":      "I need help!!!, can't login to my playvox account...!",
+    "costumerSat":  80,
+    "priority":     "Medium",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    50
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    30
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    150
+      }
+    ]
+  },
+
+  {
+    "userName":    "Emiliano Cosenza",
+    "subject":      "I can't login to my account bro.",
+    "costumerSat":  90,
+    "priority":     "Low",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    60
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    30
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    172
+      }
+    ]
+  },
+
+  {
+    "userName":    "Fahibram Carcamo",
+    "subject":      "I can't login to my account bro, thanks...!",
+    "costumerSat":  50,
+    "priority":     "Low",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    12
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    10
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    179
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    121
+      }
+    ]
+  },
+
+  {
+    "userName":    "David Contreras",
+    "subject":      "I forget my pass...!",
+    "costumerSat":  32,
+    "priority":     "High",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    20
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    10
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    179
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    103
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    94
+      }
+    ]
+  },
+
+  {
+    "userName":    "Sergio Cabrera",
+    "subject":      "I don't like your page...!",
+    "costumerSat":  67,
+    "priority":     "Medium",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    2
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    5
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    79
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    123
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    94
+      }
+    ]
+  },
+
+  {
+    "userName":    "Gustavo Arias",
+    "subject":      "I really like your page XD.",
+    "costumerSat":  69,
+    "priority":     "High",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    34
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    23
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    90
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    112
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    99
+      }
+    ]
+  },
+
+  {
+    "userName":    "Carlos Amariz",
+    "subject":      "I really like your page, I dont have money...!",
+    "costumerSat":  79,
+    "priority":     "High",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    3
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    13
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    87
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    122
+      }
+    ]
+  },
+
+  {
+    "userName":    "Laura Bonna",
+    "subject":      "I really have so much money...!",
+    "costumerSat":  96,
+    "priority":     "High",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    51
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    14
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    87
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    142
+      }
+    ]
+  },
+
+  {
+    "userName":    "Laura Mojica",
+    "subject":      "I love your page, thanks.",
+    "costumerSat":  91,
+    "priority":     "Medium",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    52
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    15
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    87
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    142
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    130
+      }
+    ]
+  },
+
+  {
+    "userName":    "Ana Maria Munevar",
+    "subject":      "I love you and your page, thanks.",
+    "costumerSat":  12,
+    "priority":     "Medium",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    50
+      },
+      {
+        "id":       "first_reply_time_in_minutes",
+        "value":    15
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    14
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    109
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    130
+      }
+    ]
+  },
+
+  {
+    "userName":    "Jhon Jairo Valenzuela",
+    "subject":      "Nice page, thanks...!",
+    "costumerSat":  13,
+    "priority":     "Low",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    5
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    109
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    130
+      }
+    ]
+  },
+
+  {
+    "userName":    "Felipe Cruz",
+    "subject":      "Nice page men, thanks...!",
+    "costumerSat":  100,
+    "priority":     "High",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    4
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    99
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    114
+      }
+    ]
+  },
+
+  {
+    "userName":    "Daniela Coral",
+    "subject":      "Hi everyone, love u...!",
+    "costumerSat":  91,
+    "priority":     "Medium",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    112
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    598
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    111
+      }
+    ]
+  },
+
+  {
+    "userName":    "Carlos Gomez",
+    "subject":      "Hi there, I miss you guys.",
+    "costumerSat":  72,
+    "priority":     "Medium",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    12
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    298
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    100
+      }
+    ]
+  },
+
+  {
+    "userName":    "Andres Caro Vargaz",
+    "subject":      "I can't login, please help me.",
+    "costumerSat":  70,
+    "priority":     "Medium",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    11
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    212
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    126
+      }
+    ]
+  },
+
+  {
+    "userName":    "Horlando Rincon",
+    "subject":      "I can't login to my account, please help.",
+    "costumerSat":  71,
+    "priority":     "Medium",
+    "status":       "Pending",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    12
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    222
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    120
+      }
+    ]
+  },
+
+  {
+    "userName":    "Juan Camilo Moreno",
+    "subject":      "I can't login to my account, I don't know what to do.",
+    "costumerSat":  100,
+    "priority":     "High",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    66
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    652
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    187
+      }
+    ]
+  },
+
+  {
+    "userName":    "Nicolas Moreno",
+    "subject":      "I don't know what to do about my life.",
+    "costumerSat":  90,
+    "priority":     "High",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    61
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    612
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    157
+      }
+    ]
+  },
+
+  {
+    "userName":    "Salvador Martinez",
+    "subject":      "Please, help me to login...!",
+    "costumerSat":  87,
+    "priority":     "Low",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    66
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    512
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    98
+      }
+    ]
+  },
+
+  {
+    "userName":    "Esperanza Galviz",
+    "subject":      "Please, help me, I can't login.",
+    "costumerSat":  87,
+    "priority":     "Medium",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    61
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    519
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    45
+      }
+    ]
+  },
+
+  {
+    "userName":    "Daniel Reyes",
+    "subject":      "I can't login.",
+    "costumerSat":  27,
+    "priority":     "High",
+    "status":       "Solved",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    62
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    529
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    12
+      }
+    ]
+  },
+
+  {
+    "userName":    "Duvan Hojeda",
+    "subject":      "I can't login, please help me, I don't know what to do, Thanks in advance guys...!",
+    "costumerSat":  27,
+    "priority":     "High",
+    "status":       "Open",
+    "metrics": [
+      {
+        "id":       "first_resolution_time_in_minutes",
+        "value":    23
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    69
+      },
+      {
+        "id":       "full_resolution_time_in_minutes",
+        "value":    33
+      }
+    ]
+  }
+]
